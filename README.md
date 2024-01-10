@@ -7,4 +7,4 @@ From the traditional "rock, paper, scissors" game.
 1. Download `Rock Paper Scissors.zip`
 2. Extract files to chosen folder
 3. Open chosen folder
-4. run `rps_set_up.exe`🎉
+4. Run `rps_set_up.exe`🎉
