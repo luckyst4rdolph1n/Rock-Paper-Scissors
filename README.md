@@ -14,3 +14,4 @@ From the traditional "rock, paper, scissors" game.
  Music promoted on https://www.chosic.com/free-music/all/
  Creative Commons Attribution 4.0 International (CC BY 4.0)
  https://creativecommons.org/licenses/by/4.0/
+- <a href="https://www.freepik.com/free-vector/gingham-pattern-red-background_48780316.htm#query=blue%20gingham&position=0&from_view=keyword&track=ais&uuid=b6243b73-cad8-4f84-b82e-70787ed85647">Image by juicy_fish</a> on Freepik
